@@ -1,55 +1,281 @@
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVIvKdoVw1MHnoOOlgnwwfiAQSDMmnozjGg&s" group-title="CATEGORIA",NOMBRE_ARTICULO
-# ID: PROD001
-# DESCRIPCION: Producto de alta calidad, ideal para uso diario.
-# PRECIO NORMAL: $200.000
-# PROMOCION: SI
-# PRECIO PROMOCION: $150.000
-# DURACION: 7 DIAS
-# OFERTA: COMPRA 1 LLEVA 2
-# VENTAS: 150
-# DISPONIBLES: 35
-# ENVIO: $10.000
-# ESTRELLAS: 4.5/5
-https://tusitio.com/producto
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVIvKdoVw1MHnoOOlgnwwfiAQSDMmnozjGg&s" group-title="CATEGORIA",NOMBRE_ARTICULO
-# ID: PROD001
-# DESCRIPCION: Producto de alta calidad, ideal para uso diario.
-# PRECIO NORMAL: $200.000
+#EXTINF:-1 tvg-logo="https://images.temu.com/earbuds.jpg" group-title="Electrónica",Wireless Earbuds con Cancelación
+# ID: TEMU001
+# DESCRIPCION: Auriculares Bluetooth con cancelación de ruido.
+# PRECIO NORMAL: $120.000
 # PROMOCION: SI
-# PRECIO PROMOCION: $150.000
-# DURACION: 7 DIAS
-# OFERTA: COMPRA 1 LLEVA 2
-# VENTAS: 150
-# DISPONIBLES: 35
-# ENVIO: $10.000
-# ESTRELLAS: 4.5/5
-https://tusitio.com/producto
+# PRECIO PROMOCION: $85.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO FLASH
+# VENTAS: 15,000+
+# DISPONIBLES: 120
+# ENVIO: $12.000
+# ESTRELLAS: 4.3/5
+https://temu.com/product/earbuds
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVIvKdoVw1MHnoOOlgnwwfiAQSDMmnozjGg&s" group-title="CATEGORIA",NOMBRE_ARTICULO
-# ID: PROD001
-# DESCRIPCION: Producto de alta calidad, ideal para uso diario.
-# PRECIO NORMAL: $200.000
+#EXTINF:-1 tvg-logo="https://images.temu.com/ledstriplights.jpg" group-title="Electrónica",LED Strip Lights RGB
+# ID: TEMU002
+# DESCRIPCION: Tiras de luces LED RGB para decoración de habitaciones.
+# PRECIO NORMAL: $50.000
 # PROMOCION: SI
-# PRECIO PROMOCION: $150.000
-# DURACION: 7 DIAS
-# OFERTA: COMPRA 1 LLEVA 2
-# VENTAS: 150
-# DISPONIBLES: 35
-# ENVIO: $10.000
-# ESTRELLAS: 4.5/5
-https://tusitio.com/producto
+# PRECIO PROMOCION: $35.000
+# DURACION: 5 DÍAS
+# OFERTA: COMPRA 1 LLEVA 1
+# VENTAS: 20,000+
+# DISPONIBLES: 150
+# ENVIO: $8.000
+# ESTRELLAS: 4.6/5
+https://temu.com/product/ledstriplights
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVIvKdoVw1MHnoOOlgnwwfiAQSDMmnozjGg&s" group-title="CATEGORIA",NOMBRE_ARTICULO
-# ID: PROD001
-# DESCRIPCION: Producto de alta calidad, ideal para uso diario.
-# PRECIO NORMAL: $200.000
+#EXTINF:-1 tvg-logo="https://images.temu.com/powerbank30000.jpg" group-title="Electrónica",Power Bank 30,000 mAh
+# ID: TEMU003
+# DESCRIPCION: Batería portátil de alta capacidad.
+# PRECIO NORMAL: $45.000
 # PROMOCION: SI
-# PRECIO PROMOCION: $150.000
-# DURACION: 7 DIAS
-# OFERTA: COMPRA 1 LLEVA 2
-# VENTAS: 150
-# DISPONIBLES: 35
-# ENVIO: $10.000
+# PRECIO PROMOCION: $30.000
+# DURACION: 7 DÍAS
+# OFERTA: ENVÍO GRATIS
+# VENTAS: 18,000+
+# DISPONIBLES: 90
+# ENVIO: $0
 # ESTRELLAS: 4.5/5
-https://tusitio.com/producto
+https://temu.com/product/powerbank30000
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/smartwatchsport.jpg" group-title="Tecnología",Reloj Inteligente Deportivo
+# ID: TEMU004
+# DESCRIPCION: Smartwatch con sensor cardíaco y notificaciones.
+# PRECIO NORMAL: $180.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $140.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 100,000+
+# DISPONIBLES: 200
+# ENVIO: $10.000
+# ESTRELLAS: 4.2/5
+https://temu.com/product/smartwatchsport
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/protectorcolchon.jpg" group-title="Hogar",Protector de Colchón Impermeable
+# ID: TEMU005
+# DESCRIPCION: Cubre colchón impermeable y acolchado.
+# PRECIO NORMAL: $80.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $59.000
+# DURACION: 10 DÍAS
+# OFERTA: COMPRA 1 LLEVA 1
+# VENTAS: 100,000+
+# DISPONIBLES: 150
+# ENVIO: $7.000
+# ESTRELLAS: 4.4/5
+https://temu.com/product/protectorcolchon
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/shaverkit.jpg" group-title="Belleza",Máquina de Afeitar Profesional USB
+# ID: TEMU006
+# DESCRIPCION: Kit de afeitado recargable por USB.
+# PRECIO NORMAL: $30.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $20.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO FLASH
+# VENTAS: 100,000+
+# DISPONIBLES: 180
+# ENVIO: $5.000
+# ESTRELLAS: 4.2/5
+https://temu.com/product/shaverkit
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/alfombrabano.jpg" group-title="Hogar",Alfombra de Baño de Coral
+# ID: TEMU007
+# DESCRIPCION: Alfombra antideslizante para baño.
+# PRECIO NORMAL: $20.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $15.000
+# DURACION: 7 DÍAS
+# OFERTA: COMPRA 1 LLEVA 2
+# VENTAS: 50,000+
+# DISPONIBLES: 300
+# ENVIO: $4.000
+# ESTRELLAS: 4.5/5
+https://temu.com/product/alfombrabano
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/leggings3pack.jpg" group-title="Moda",Set de 3 Leggings Deportivos
+# ID: TEMU008
+# DESCRIPCION: Leggings de entrenamiento de cintura alta.
+# PRECIO NORMAL: $75.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $55.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 70,000+
+# DISPONIBLES: 120
+# ENVIO: $10.000
+# ESTRELLAS: 4.3/5
+https://temu.com/product/leggings3pack
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/brasier3set.jpg" group-title="Moda",Set de 3 Brasieres Sin Aros
+# ID: TEMU009
+# DESCRIPCION: Confortables brasieres sin aros, multiuso.
+# PRECIO NORMAL: $60.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $45.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 80,000+
+# DISPONIBLES: 130
+# ENVIO: $9.000
+# ESTRELLAS: 4.4/5
+https://temu.com/product/brasier3set
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/petpawcleaner.jpg" group-title="Mascotas",Copa Limpiadora de Patas para Mascotas
+# ID: TEMU010
+# DESCRIPCION: Limpieza fácil de patas de perro o gato.
+# PRECIO NORMAL: $15.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $10.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 60,000+
+# DISPONIBLES: 90
+# ENVIO: $4.000
+# ESTRELLAS: 4.7/5
+https://temu.com/product/petpawcleaner
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/selfadhesivelash.jpg" group-title="Belleza",Self‑Adhesive Eyelash Extensions
+# ID: TEMU011
+# DESCRIPCION: Pestañas adhesivas DIY con 100 piezas.
+# PRECIO NORMAL: $20.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $14.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 40,000+
+# DISPONIBLES: 110
+# ENVIO: $5.000
+# ESTRELLAS: 4.3/5
+https://temu.com/product/selfadhesivelash
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/bluetoothtipscase.jpg" group-title="Accesorios",Funda Bluetooth + Soporte Smartphone
+# ID: TEMU012
+# DESCRIPCION: Funda + soporte multifunción para celular.
+# PRECIO NORMAL: $25.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $18.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 22,000+
+# DISPONIBLES: 80
+# ENVIO: $6.000
+# ESTRELLAS: 4.4/5
+https://temu.com/product/bluetoothtipscase
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/microwavecover.jpg" group-title="Hogar",Cobertor de Microondas Ajustable
+# ID: TEMU013
+# DESCRIPCION: Cubre microondas anti‑salpicaduras.
+# PRECIO NORMAL: $15.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $10.000
+# DURACION: 7 DÍAS
+# OFERTA: COMPRA 1 LLEVA 2
+# VENTAS: 30,000+
+# DISPONIBLES: 150
+# ENVIO: $3.000
+# ESTRELLAS: 4.2/5
+https://temu.com/product/microwavecover
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/usbelectriclighter.jpg" group-title="Gadgets",Encendedor USB Recargable
+# ID: TEMU014
+# DESCRIPCION: Encendedor eléctrico recargable por USB.
+# PRECIO NORMAL: $12.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $8.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 25,000+
+# DISPONIBLES: 100
+# ENVIO: $3.000
+# ESTRELLAS: 4.1/5
+https://temu.com/product/usbelectriclighter
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/magwindowcleaner.jpg" group-title="Hogar",Limpiador Magnético de Ventanas
+# ID: TEMU015
+# DESCRIPCION: Limpiador doble para ventanas de vidrio.
+# PRECIO NORMAL: $30.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $20.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 35,000+
+# DISPONIBLES: 70
+# ENVIO: $7.000
+# ESTRELLAS: 4.4/5
+https://temu.com/product/magwindowcleaner
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/minivacuum.jpg" group-title="Hogar",Mini Aspiradora de Escritorio
+# ID: TEMU016
+# DESCRIPCION: Aspiradora compacta para polvo y migas.
+# PRECIO NORMAL: $18.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $12.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 28,000+
+# DISPONIBLES: 90
+# ENVIO: $5.000
+# ESTRELLAS: 4.3/5
+https://temu.com/product/minivacuum
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/travelbackpack.jpg" group-title="Accesorios",Mochila de Viaje Plegable
+# ID: TEMU017
+# DESCRIPCION: Mochila plegable impermeable, ideal para viajes.
+# PRECIO NORMAL: $70.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $50.000
+# DURACION: 10 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 17,000+
+# DISPONIBLES: 60
+# ENVIO: $9.000
+# ESTRELLAS: 4.5/5
+https://temu.com/product/travelbackpack
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/kitchenchopper.jpg" group-title="Cocina",Multifunción Kitchen Chopper
+# ID: TEMU018
+# DESCRIPCION: Cortadora múltiple para verduras.
+# PRECIO NORMAL: $28.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $19.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 14,000+
+# DISPONIBLES: 85
+# ENVIO: $5.000
+# ESTRELLAS: 4.4/5
+https://temu.com/product/kitchenchopper
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/wirelessphoneholder.jpg" group-title="Accesorios",Soporte Magnético para Celular
+# ID: TEMU019
+# DESCRIPCION: Soporte magnético para auto.
+# PRECIO NORMAL: $15.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $10.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 40,000+
+# DISPONIBLES: 150
+# ENVIO: $4.000
+# ESTRELLAS: 4.5/5
+https://temu.com/product/wirelessphoneholder
+
+#EXTINF:-1 tvg-logo="https://images.temu.com/usbcmotionlights.jpg" group-title="Hogar",Luces Sensor de Movimiento USB
+# ID: TEMU020
+# DESCRIPCION: Luces LED con sensor para pasillos/cocina.
+# PRECIO NORMAL: $22.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $15.000
+# DURACION: 7 DÍAS
+# OFERTA: DESCUENTO
+# VENTAS: 23,000+
+# DISPONIBLES: 100
+# ENVIO: $5.000
+# ESTRELLAS: 4.4/5
+https://temu.com/product/usbcmotionlights
