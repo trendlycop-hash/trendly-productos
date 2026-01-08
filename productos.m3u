@@ -1,8 +1,55 @@
-#EXTINF:-1 tvg-logo="URL_FOTO" group-title="CATEGORIA",NOMBRE_ARTICULO
-# PRECIO NORMAL: $00.00
-# PROMOCION: SI / NO
-# PRECIO PROMOCION: $00.00
-# DURACION: X DIAS
-# OFERTA: COMPRA # LLEVA #
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVIvKdoVw1MHnoOOlgnwwfiAQSDMmnozjGg&s" group-title="CATEGORIA",NOMBRE_ARTICULO
+# ID: PROD001
+# DESCRIPCION: Producto de alta calidad, ideal para uso diario.
+# PRECIO NORMAL: $200.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $150.000
+# DURACION: 7 DIAS
+# OFERTA: COMPRA 1 LLEVA 2
 # VENTAS: 150
-URL_DEL_PRODUCTO
+# DISPONIBLES: 35
+# ENVIO: $10.000
+# ESTRELLAS: 4.5/5
+https://tusitio.com/producto
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVIvKdoVw1MHnoOOlgnwwfiAQSDMmnozjGg&s" group-title="CATEGORIA",NOMBRE_ARTICULO
+# ID: PROD001
+# DESCRIPCION: Producto de alta calidad, ideal para uso diario.
+# PRECIO NORMAL: $200.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $150.000
+# DURACION: 7 DIAS
+# OFERTA: COMPRA 1 LLEVA 2
+# VENTAS: 150
+# DISPONIBLES: 35
+# ENVIO: $10.000
+# ESTRELLAS: 4.5/5
+https://tusitio.com/producto
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVIvKdoVw1MHnoOOlgnwwfiAQSDMmnozjGg&s" group-title="CATEGORIA",NOMBRE_ARTICULO
+# ID: PROD001
+# DESCRIPCION: Producto de alta calidad, ideal para uso diario.
+# PRECIO NORMAL: $200.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $150.000
+# DURACION: 7 DIAS
+# OFERTA: COMPRA 1 LLEVA 2
+# VENTAS: 150
+# DISPONIBLES: 35
+# ENVIO: $10.000
+# ESTRELLAS: 4.5/5
+https://tusitio.com/producto
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVIvKdoVw1MHnoOOlgnwwfiAQSDMmnozjGg&s" group-title="CATEGORIA",NOMBRE_ARTICULO
+# ID: PROD001
+# DESCRIPCION: Producto de alta calidad, ideal para uso diario.
+# PRECIO NORMAL: $200.000
+# PROMOCION: SI
+# PRECIO PROMOCION: $150.000
+# DURACION: 7 DIAS
+# OFERTA: COMPRA 1 LLEVA 2
+# VENTAS: 150
+# DISPONIBLES: 35
+# ENVIO: $10.000
+# ESTRELLAS: 4.5/5
+https://tusitio.com/producto
