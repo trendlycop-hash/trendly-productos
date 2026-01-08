@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/earbuds.jpg" group-title="Electrónica",Wireless Earbuds con Cancelación
+#EXTINF:-1 tvg-logo="https://media.falabella.com/falabellaCO/73060683_1/w=1500,h=1500,fit=cover" group-title="Electrónica",Wireless Earbuds con Cancelación
 # ID: TEMU001
 # DESCRIPCION: Auriculares Bluetooth con cancelación de ruido.
 # PRECIO NORMAL: $120.000
@@ -14,7 +14,7 @@
 # ESTRELLAS: 4.3/5
 https://temu.com/product/earbuds
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/ledstriplights.jpg" group-title="Electrónica",LED Strip Lights RGB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt4RlB8SVv_auaOuf3Idv5DjavqTI251oIQw&s" group-title="Electrónica",LED Strip Lights RGB
 # ID: TEMU002
 # DESCRIPCION: Tiras de luces LED RGB para decoración de habitaciones.
 # PRECIO NORMAL: $50.000
@@ -28,7 +28,7 @@ https://temu.com/product/earbuds
 # ESTRELLAS: 4.6/5
 https://temu.com/product/ledstriplights
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/powerbank30000.jpg" group-title="Electrónica",Power Bank 30,000 mAh
+#EXTINF:-1 tvg-logo="https://www.vegerpower.com/cdn/shop/files/VEGER_3008_TD06.jpg?v=1735541198&width=1280" group-title="Electrónica",Power Bank 30,000 mAh
 # ID: TEMU003
 # DESCRIPCION: Batería portátil de alta capacidad.
 # PRECIO NORMAL: $45.000
@@ -42,7 +42,7 @@ https://temu.com/product/ledstriplights
 # ESTRELLAS: 4.5/5
 https://temu.com/product/powerbank30000
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/smartwatchsport.jpg" group-title="Tecnología",Reloj Inteligente Deportivo
+#EXTINF:-1 tvg-logo="https://exitocol.vtexassets.com/arquivos/ids/24623417/smartwatch-reloj-inteligente-deportivo-g-tide-r3-doble-pulso-negro.jpg?v=638617515373800000" group-title="Tecnología",Reloj Inteligente Deportivo
 # ID: TEMU004
 # DESCRIPCION: Smartwatch con sensor cardíaco y notificaciones.
 # PRECIO NORMAL: $180.000
@@ -56,7 +56,7 @@ https://temu.com/product/powerbank30000
 # ESTRELLAS: 4.2/5
 https://temu.com/product/smartwatchsport
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/protectorcolchon.jpg" group-title="Hogar",Protector de Colchón Impermeable
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51GIRlcZuML._AC_UF1000,1000_QL80_.jpg" group-title="Hogar",Protector de Colchón Impermeable
 # ID: TEMU005
 # DESCRIPCION: Cubre colchón impermeable y acolchado.
 # PRECIO NORMAL: $80.000
@@ -70,9 +70,16 @@ https://temu.com/product/smartwatchsport
 # ESTRELLAS: 4.4/5
 https://temu.com/product/protectorcolchon
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/shaverkit.jpg" group-title="Belleza",Máquina de Afeitar Profesional USB
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_Q_NP_2X_926932-MCO91996472166_092025-T.webp" group-title="Belleza",Máquina de Afeitar Profesional USB
 # ID: TEMU006
-# DESCRIPCION: Kit de afeitado recargable por USB.
+# DESCRIPCION: Lo que tienes que saber de este producto
+Voltaje: 110V.
+Máquina afeitadora con cabezales de acero inoxidable para un corte duradero.
+Sistema de afeitado con láminas para un acabado preciso.
+Función inalámbrica para mayor comodidad en el uso.
+Incluye cabezales removibles y lavables para fácil mantenimiento.
+Apta para bebés, ideal para toda la familia.
+Tiempo de carga de solo 2 horas para uso rápido
 # PRECIO NORMAL: $30.000
 # PROMOCION: SI
 # PRECIO PROMOCION: $20.000
@@ -84,9 +91,9 @@ https://temu.com/product/protectorcolchon
 # ESTRELLAS: 4.2/5
 https://temu.com/product/shaverkit
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/alfombrabano.jpg" group-title="Hogar",Alfombra de Baño de Coral
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_741312-CBT82464776326_022025-F.webp" group-title="Hogar",Alfombra de Baño de Coral
 # ID: TEMU007
-# DESCRIPCION: Alfombra antideslizante para baño.
+# DESCRIPCION: Alfombra de baño de 3 piezas de lujo: incluyendo 1 alfombra de baño extra grande 48x20, 1 alfombra contorneada en forma de U 22x24, 1 alfombra de baño pequeño 17x24.
 # PRECIO NORMAL: $20.000
 # PROMOCION: SI
 # PRECIO PROMOCION: $15.000
@@ -98,7 +105,7 @@ https://temu.com/product/shaverkit
 # ESTRELLAS: 4.5/5
 https://temu.com/product/alfombrabano
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/leggings3pack.jpg" group-title="Moda",Set de 3 Leggings Deportivos
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_854306-MCO80776636529_112024-F.webp" group-title="Moda",Set de 3 Leggings Deportivos
 # ID: TEMU008
 # DESCRIPCION: Leggings de entrenamiento de cintura alta.
 # PRECIO NORMAL: $75.000
@@ -126,7 +133,7 @@ https://temu.com/product/leggings3pack
 # ESTRELLAS: 4.4/5
 https://temu.com/product/brasier3set
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/petpawcleaner.jpg" group-title="Mascotas",Copa Limpiadora de Patas para Mascotas
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_749387-CBT103961047523_012026-F.webp" group-title="Mascotas",Copa Limpiadora de Patas para Mascotas
 # ID: TEMU010
 # DESCRIPCION: Limpieza fácil de patas de perro o gato.
 # PRECIO NORMAL: $15.000
@@ -140,7 +147,7 @@ https://temu.com/product/brasier3set
 # ESTRELLAS: 4.7/5
 https://temu.com/product/petpawcleaner
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/selfadhesivelash.jpg" group-title="Belleza",Self‑Adhesive Eyelash Extensions
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_742279-MLU74721086744_032024-F.webp" group-title="Belleza",Self‑Adhesive Eyelash Extensions
 # ID: TEMU011
 # DESCRIPCION: Pestañas adhesivas DIY con 100 piezas.
 # PRECIO NORMAL: $20.000
@@ -154,7 +161,7 @@ https://temu.com/product/petpawcleaner
 # ESTRELLAS: 4.3/5
 https://temu.com/product/selfadhesivelash
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/bluetoothtipscase.jpg" group-title="Accesorios",Funda Bluetooth + Soporte Smartphone
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_908820-MLA82534415351_022025-F.webp" group-title="Accesorios",Funda Bluetooth + Soporte Smartphone
 # ID: TEMU012
 # DESCRIPCION: Funda + soporte multifunción para celular.
 # PRECIO NORMAL: $25.000
@@ -168,7 +175,7 @@ https://temu.com/product/selfadhesivelash
 # ESTRELLAS: 4.4/5
 https://temu.com/product/bluetoothtipscase
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/microwavecover.jpg" group-title="Hogar",Cobertor de Microondas Ajustable
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_779664-CBT74149019285_012024-F.webp" group-title="Hogar",Cobertor de Microondas Ajustable
 # ID: TEMU013
 # DESCRIPCION: Cubre microondas anti‑salpicaduras.
 # PRECIO NORMAL: $15.000
@@ -182,7 +189,7 @@ https://temu.com/product/bluetoothtipscase
 # ESTRELLAS: 4.2/5
 https://temu.com/product/microwavecover
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/usbelectriclighter.jpg" group-title="Gadgets",Encendedor USB Recargable
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_770750-MLA100087039509_122025-F.webp" group-title="Gadgets",Encendedor USB Recargable
 # ID: TEMU014
 # DESCRIPCION: Encendedor eléctrico recargable por USB.
 # PRECIO NORMAL: $12.000
@@ -196,7 +203,7 @@ https://temu.com/product/microwavecover
 # ESTRELLAS: 4.1/5
 https://temu.com/product/usbelectriclighter
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/magwindowcleaner.jpg" group-title="Hogar",Limpiador Magnético de Ventanas
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_930457-MLA100065756917_122025-F.webp" group-title="Hogar",Limpiador Magnético de Ventanas
 # ID: TEMU015
 # DESCRIPCION: Limpiador doble para ventanas de vidrio.
 # PRECIO NORMAL: $30.000
@@ -210,7 +217,7 @@ https://temu.com/product/usbelectriclighter
 # ESTRELLAS: 4.4/5
 https://temu.com/product/magwindowcleaner
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/minivacuum.jpg" group-title="Hogar",Mini Aspiradora de Escritorio
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_668401-MCO69401890975_052023-F.webp" group-title="Hogar",Mini Aspiradora de Escritorio
 # ID: TEMU016
 # DESCRIPCION: Aspiradora compacta para polvo y migas.
 # PRECIO NORMAL: $18.000
@@ -224,7 +231,7 @@ https://temu.com/product/magwindowcleaner
 # ESTRELLAS: 4.3/5
 https://temu.com/product/minivacuum
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/travelbackpack.jpg" group-title="Accesorios",Mochila de Viaje Plegable
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_836069-MCO78246811880_082024-F.webp" group-title="Accesorios",Mochila de Viaje Plegable
 # ID: TEMU017
 # DESCRIPCION: Mochila plegable impermeable, ideal para viajes.
 # PRECIO NORMAL: $70.000
@@ -238,7 +245,7 @@ https://temu.com/product/minivacuum
 # ESTRELLAS: 4.5/5
 https://temu.com/product/travelbackpack
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/kitchenchopper.jpg" group-title="Cocina",Multifunción Kitchen Chopper
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_798134-CBT80550925665_112024-F.webp" group-title="Cocina",Multifunción Kitchen Chopper
 # ID: TEMU018
 # DESCRIPCION: Cortadora múltiple para verduras.
 # PRECIO NORMAL: $28.000
@@ -252,7 +259,7 @@ https://temu.com/product/travelbackpack
 # ESTRELLAS: 4.4/5
 https://temu.com/product/kitchenchopper
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/wirelessphoneholder.jpg" group-title="Accesorios",Soporte Magnético para Celular
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_600308-MLA97369128730_112025-F.webp" group-title="Accesorios",Soporte Magnético para Celular
 # ID: TEMU019
 # DESCRIPCION: Soporte magnético para auto.
 # PRECIO NORMAL: $15.000
@@ -266,7 +273,7 @@ https://temu.com/product/kitchenchopper
 # ESTRELLAS: 4.5/5
 https://temu.com/product/wirelessphoneholder
 
-#EXTINF:-1 tvg-logo="https://images.temu.com/usbcmotionlights.jpg" group-title="Hogar",Luces Sensor de Movimiento USB
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_2X_890430-CBT83541229978_042025-F.webp" group-title="Hogar",Luces Sensor de Movimiento USB
 # ID: TEMU020
 # DESCRIPCION: Luces LED con sensor para pasillos/cocina.
 # PRECIO NORMAL: $22.000
