@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://link.com/foto_laptop.jpg" group-title="Tecnología",Laptop Gamer Pro
+# PRECIO NORMAL: $1200
+# PROMOCION: SI
+# PRECIO PROMOCION: $950
+# DURACION: 3 DIAS
+# OFERTA: COMPRA 1 LLEVA 1
+https://tienda.com/comprar/laptop
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVIvKdoVw1MHnoOOlgnwwfiAQSDMmnozjGg&s" group-title="Deportes",Balón de Fútbol Oficial
+# PRECIO NORMAL: $30
+# PROMOCION: NO
+# PRECIO PROMOCION: $30
+# DURACION: 0 DIAS
+# OFERTA: COMPRA 2 LLEVA 3
+https://tienda.com/comprar/balon-futbol
+
+#EXTINF:-1 tvg-logo="https://link.com/foto_pesas.jpg" group-title="Deportes",Kit de Pesas 10kg
+# PRECIO NORMAL: $80
+# PROMOCION: SI
+# PRECIO PROMOCION: $65
+# DURACION: 7 DIAS
+# OFERTA: COMPRA 1 LLEVA 1
+https://tienda.com/comprar/pesas
